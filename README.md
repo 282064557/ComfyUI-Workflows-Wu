@@ -39,9 +39,6 @@
 - 可以帮助创建、解释自定义节点或工作流
 - 上榜 GPTs 全球对话数据第 165 名（12.29数据）
 - 目前对话数已达2.5k+，ComfyUI 领域 GPTs 第一名
-- 使用教程：[【GPTs | 我专门为ComfyUI定制了一个全能助手 | 再也不用担心ComfyUI不会用了】](https://www.bilibili.com/video/BV1LC4y1E78n/?share_source=copy_web&vd_source=aa2245cc0c4c36a0387a65937847fd3c)
-- 一键直达（需订阅 ChatGPT Plus）：https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
-
 <details>
 <summary>展开 | Expand</summary>
 
